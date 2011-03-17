@@ -1,5 +1,4 @@
 <?php 
-
 function _iscurlinstalled() {
 if  (in_array  ('curl', get_loaded_extensions())) {
   return true;
