@@ -1,0 +1,5 @@
+PB WebTool XML API
+
+The PunkBuster WebTool provides the means to remotely administer game servers from any connected computer using a web browser (such as Netscape's Navigator or Microsoft's Internet Explorer). Starting with version 0.987, the PunkBuster Server software includes a mini web server that takes input from Web-based forms and translates that input into game commands. This type of access is similar to using rcon (remote console) commands, except it is done through an html interface and works even from computers that do not have the game or PunkBuster installed. Just about anything that can be done at a server's console or via rcon can be achieved easily by using the WebTool. By default, the WebTool is deactivated. The remainder of this section explains how to activate and use the WebTool.
+
+http://www.evenbalance.com/publications/admins/
